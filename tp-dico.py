@@ -1,4 +1,3 @@
-
 from time import time
 
 def occurrences(list):
